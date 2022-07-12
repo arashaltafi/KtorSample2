@@ -1,4 +1,4 @@
-package com.plcoding.ktorclientandroid.data.remote.dto
+package com.arash.altafi.ktorsample2.data.remote.dto
 
 import kotlinx.serialization.Serializable
 

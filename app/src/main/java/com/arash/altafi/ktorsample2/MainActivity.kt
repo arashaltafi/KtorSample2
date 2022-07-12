@@ -14,7 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arash.altafi.ktorsample2.data.remote.PostsService
-import com.plcoding.ktorclientandroid.data.remote.dto.PostResponse
+import com.arash.altafi.ktorsample2.data.remote.dto.PostResponse
 import com.arash.altafi.ktorsample2.ui.theme.KtorClientAndroidTheme
 
 class MainActivity : ComponentActivity() {

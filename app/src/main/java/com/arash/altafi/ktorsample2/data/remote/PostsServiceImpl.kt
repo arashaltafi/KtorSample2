@@ -1,7 +1,7 @@
 package com.arash.altafi.ktorsample2.data.remote
 
-import com.plcoding.ktorclientandroid.data.remote.dto.PostRequest
-import com.plcoding.ktorclientandroid.data.remote.dto.PostResponse
+import com.arash.altafi.ktorsample2.data.remote.dto.PostRequest
+import com.arash.altafi.ktorsample2.data.remote.dto.PostResponse
 import io.ktor.client.*
 import io.ktor.client.features.*
 import io.ktor.client.request.*
